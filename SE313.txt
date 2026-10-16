@@ -1,4 +1,7 @@
 csci313
-software 
-engineering 
+
+software
+
+engineering
+ 
 lab 
